@@ -1,0 +1,58 @@
+  .z {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .g{
+    display: flex;
+  }
+  .m{
+    background-color: aqua;
+  }
+  .amit{
+    display: flex;
+  }
+
+  .d-flex {
+    background-color: #ff6600; 
+    color: white;
+    border: none;
+  }
+  .d-flex {
+    background-color: #e65c00; 
+  }
+  
+  .d {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.g {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  z-index: 1;
+}
+
+.g {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.g{
+  border-spacing: 0ch;
+}
+
+
+.f{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  
+}
+.w{
+  display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+}
